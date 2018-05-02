@@ -1,0 +1,43 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.elementor-divider-separator {
+  border-top-color: #6ec1e4 !important;
+}
+
+.elementor-shape-fill {
+  fill: rgba(25,154,211,0.69) !important; 
+}
+
+h3 {
+  color: #000 !important;
+}
+
+p {
+  color: #7A7A7A !important;
+}
+
+.elementor-61 .elementor-element.elementor-element-5bb2a2c4 .elementor-heading-title {
+  color: #FFF !important;
+}
+
+.elementor-image-box-img img {
+  box-shadow: #7a7a7a 2px 2px 6px 0px;
+}
+
+.elementor-image-box-description {
+  border-left: 2px #eaeaea solid;
+  padding-left: 20px; 
+}
+
+header .navbar {
+  display: none;
+}
+
+.main > article {
+  padding: 0 !important;
+}
+
+footer {
+  display: none;
+}</style>
+<!-- end Simple Custom CSS and JS -->
